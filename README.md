@@ -1,1 +1,1 @@
-# ai-image-generator-platform
+# AI Image Generator Platform
